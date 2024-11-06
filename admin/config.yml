@@ -1,10 +1,12 @@
 backend:
   name: github
   repo: thepolishedengineer/thepolishedengineer.github.io
-  branch: DecapCMS
+  branch: DecapCMS  # Branch to update (optional; defaults to master)
   site_domain: thepolishedengineer.netlify.com
 
-media_folder: "images/uploads"
+publish_mode: editorial_workflow
+
+media_folder: "assets/images/post-images"
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
