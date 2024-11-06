@@ -1,3 +1,7 @@
+---
+title: Second Test Post
+date: 2024-10-24T22:10:00.000Z
+---
 This is a second test post
 I want to see what it looks like
 
