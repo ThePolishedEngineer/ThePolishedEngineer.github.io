@@ -5,4 +5,9 @@ tags:
   - family-history
   - deep-dives
 ---
-There’s a lot of family history on Momgineer’s side that’s been lost. Her grandparents fled Eastern Europe shortly before World War II for. . . obvious reasons.
+There’s a lot of family history on Momgineer’s side that’s been lost. Her grandparents fled Eastern Europe shortly before World War II for. . . obvious reasons.^[holocaust]
+
+
+
+
+^[holocaust]: For any unaware readers, Jews (and other “undesirables”) in Eastern Europe were being persecuted and killed in the Holocaust before World War II started.  My great grandparents had narrowly 
