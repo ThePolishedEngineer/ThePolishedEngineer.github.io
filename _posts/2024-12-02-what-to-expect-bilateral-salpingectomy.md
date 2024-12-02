@@ -6,4 +6,6 @@ tags:
   - medical
   - politics
 ---
-I am writing this as I lie on my recliner at home, 5 hours after being wheeled into the operating room.
+As I write this, I am lying in my recliner at home. 5 hours ago, I was being wheeled into the operating room for my first ever operation - a sterilization procedure called a bilateral salpingectomy. 
+
+Now, I keep nodding off as I write this. It’s taken twenty minutes to write these 4 sentebbr
